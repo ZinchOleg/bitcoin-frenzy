@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bitcoin-frenzy/static/css/main.c8a2c09a.css",
+    "main.js": "/bitcoin-frenzy/static/js/main.4eacd649.js",
+    "static/media/BITCOIN.gif": "/bitcoin-frenzy/static/media/BITCOIN.42a69c8016ce87b5e871.gif",
+    "static/media/bg1.png": "/bitcoin-frenzy/static/media/bg1.7f1c9617af4d6a78c9dc.png",
+    "static/media/history.mp3": "/bitcoin-frenzy/static/media/history.b8dcbc35da16bc7fffdc.mp3",
+    "static/media/bitcoin.mp3": "/bitcoin-frenzy/static/media/bitcoin.bd5872acc6b77dd3bd20.mp3",
+    "static/media/buy.mp3": "/bitcoin-frenzy/static/media/buy.8e65838a5fd89928b15f.mp3",
+    "static/media/sell.mp3": "/bitcoin-frenzy/static/media/sell.07a382aa6f3392d71f86.mp3",
+    "static/media/wallet.mp3": "/bitcoin-frenzy/static/media/wallet.76f3f3165bb798f8bd65.mp3",
+    "static/media/clearHistory.mp3": "/bitcoin-frenzy/static/media/clearHistory.7505eb5cdc2216a1ec4e.mp3",
+    "static/media/false.mp3": "/bitcoin-frenzy/static/media/false.a1ac54628602f17dac42.mp3",
+    "index.html": "/bitcoin-frenzy/index.html",
+    "static/media/Cross.svg": "/bitcoin-frenzy/static/media/Cross.036626e3eb915e9ae70558d496dbd7c4.svg",
+    "main.c8a2c09a.css.map": "/bitcoin-frenzy/static/css/main.c8a2c09a.css.map",
+    "main.4eacd649.js.map": "/bitcoin-frenzy/static/js/main.4eacd649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a2c09a.css",
+    "static/js/main.4eacd649.js"
+  ]
+}
